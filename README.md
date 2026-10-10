@@ -108,32 +108,7 @@ Support secure access through authentication and authorization mechanisms.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
 
-### 🎨 Frontend Development
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
-
-### ⚙️ Backend Development
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-
-### 🗄️ Database
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-### 🔧 Tools & Technologies
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs"/>
-
-</div>
 
 ---
 
@@ -303,20 +278,3 @@ B.Tech Student | NIT Kurukshetra
 
 ---
 
-## 🏷️ GitHub Repository Topics
-
-Add these topics in your repository's **About → Topics** section:
-
-`smart-university` `campus-management` `college-portal` `student-dashboard` `full-stack-development` `nodejs` `expressjs` `mongodb` `ejs` `bootstrap` `web-development`
-
----
-
-<div align="center">
-
-### 🌐 One Campus. One Platform. A Smarter Tomorrow.
-
-**Built to make university life more connected, organized, and accessible.**
-
-⭐ If you like this project, consider starring the repository!
-
-</div>
