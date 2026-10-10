@@ -5,9 +5,9 @@
 
 **One Campus. One Platform. Endless Possibilities.**
 
-<!-- <img src="https://img.shields.io/badge/Smart-University-2563EB?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Smart University"/>
+ <img src="https://img.shields.io/badge/Smart-University-2563EB?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Smart University"/>
 <img src="https://img.shields.io/badge/Full--Stack-Web%20Development-green?style=for-the-badge" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Project Status"/> -->
+<img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" alt="Project Status"/> 
 
 <p>
 A centralized digital campus platform designed to simplify student life by bringing academic resources, campus updates, attendance, assignments, clubs, and events together in one place.
@@ -96,7 +96,7 @@ Support secure access through authentication and authorization mechanisms.
 
 <!-- Replace the path below with your actual screenshot path -->
 
-<img src="screenshots/homepage.png" alt="Smart University Homepage" width="90%"/>
+
 
 **Smart University — Bringing Campus Life Together**
 
